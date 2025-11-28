@@ -1,0 +1,1 @@
+console.log('RT05 App loaded');
